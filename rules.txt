@@ -1,0 +1,32 @@
+@@||*.speedtest.net/api/*$xmlhttprequest,domain=speedtest.net
+@@||www.gofobo.com/$document
+@@||blockadblock.com/$document
+@@||zoomtv.me/*/js/ads.js$script
+@@||quack.me/$document
+@@||adf.ly/$document
+@@||spartacandleswithmichele.ca/$document
+@@||www.samsung.com/$document
+@@||pandora:9901/$document
+@@||pandora:9900/$document
+
+survey4prizes.com
+com-msoft65.info
+bleutrack.com
+k9anf8bc.webcam
+coin-hive.com
+wegivegifts.net
+.ru
+.online
+.loan
+b014381c95cb.com
+www.haldimandmotors.com
+
+strikeout.me###overlayad
+strikeout.me##.in.fade.modal-backdrop
+##.sp-leader
+###container_player
+##.hidden-tablet.hidden-phone:nth-of-type(4) > center
+##.hidden-tablet.hidden-phone:nth-of-type(1) > center
+||static.*watchseries.to/templates/default/images/728x90n-*.png$image
+gorillavid.in##div:nth-of-type(1) > iframe
+dwatchseries.to##.fullwrap > div > div:nth-of-type(1)
