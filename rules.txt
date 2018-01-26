@@ -29,4 +29,5 @@ strikeout.me##.in.fade.modal-backdrop
 ##.hidden-tablet.hidden-phone:nth-of-type(1) > center
 ||static.*watchseries.to/templates/default/images/728x90n-*.png$image
 gorillavid.in##div:nth-of-type(1) > iframe
-dwatchseries.to##.fullwrap > div > div:nth-of-type(1)
+dwatchseries.to/episode/*##.fullwrap > div > div:nth-of-type(1)
+dwatchseries.to/cale.html##.fullwrap > div > div:nth-of-type(1)
