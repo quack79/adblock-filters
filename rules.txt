@@ -1,13 +1,9 @@
 @@||*.speedtest.net/api/*$xmlhttprequest,domain=speedtest.net
 @@||www.gofobo.com/$document
-@@||blockadblock.com/$document
-@@||zoomtv.me/*/js/ads.js$script
 @@||quack.me/$document
 @@||adf.ly/$document
-@@||spartacandleswithmichele.ca/$document
 @@||www.samsung.com/$document
 @@||pandora:9901/$document
-@@||pandora:9900/$document
 
 survey4prizes.com
 com-msoft65.info
@@ -20,9 +16,30 @@ wegivegifts.net
 .loan
 b014381c95cb.com
 www.haldimandmotors.com
-@@||*.bestcdnever.ru
 
 strikeout.me###overlayad
 strikeout.me##.in.fade.modal-backdrop
 ##.sp-leader
 ###container_player
+
+@@||$script,stylesheet,third-party,domain=fmovies.is|fmovies.se|fmovies.to
+@@||disqus.com^$script,domain=fmovies.is|fmovies.se|fmovies.to
+@@||disquscdn.com^$script,domain=fmovies.is|fmovies.se|fmovies.to
+
+@@||cdn.onesignal.com/sdks/OneSignalSDK.js
+@@||fonts.googleapis.com
+
+@@||*.*watchseries.to/show/get-tracking-data
+@@||*.*swatchseries.to/set-tracked-show
+@@||*.*swatchseries.to/episode/add-to-watched
+@@||*.*swatchseries.to/episode/remove-from-watched
+
+@@||ads.*watchseries.to/script/ad.js$script,domain=www1.swatchseries.to
+||static.*watchseries.to/templates/default/images/westworld-tournage-casting.gif$image
+
+||eontent.streamplay.to/apu.hh?n=&direct=1&zoneid=50$subdocument
+||st.chatango.com$subdocument
+||tvdata.ustvnow.com/highlighted-content/posters/horizontal/army-family.jpg$image
+watch.ustvnow.com##.pull-right.col-md-7.panel-default.panel
+
+@@||thepiratebay.org/static/*$script,first-party
