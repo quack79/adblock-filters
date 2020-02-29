@@ -1,8 +1,8 @@
-@@||*.speedtest.net/api/*$xmlhttprequest,domain=speedtest.net
-@@||www.gofobo.com/$document
+@@||fonts.googleapis.com
+
+@@||code.jquery.com^$script
+@@||*.speedtest.net/api/*$xhr,domain=speedtest.net
 @@||quack.me/$document
-@@||adf.ly/$document
-@@||www.samsung.com/$document
 @@||pandora:9901/$document
 
 survey4prizes.com
@@ -17,29 +17,31 @@ wegivegifts.net
 b014381c95cb.com
 www.haldimandmotors.com
 
-strikeout.me###overlayad
-strikeout.me##.in.fade.modal-backdrop
-##.sp-leader
-###container_player
-
-@@||$script,stylesheet,third-party,domain=fmovies.is|fmovies.se|fmovies.to
-@@||disqus.com^$script,domain=fmovies.is|fmovies.se|fmovies.to
-@@||disquscdn.com^$script,domain=fmovies.is|fmovies.se|fmovies.to
-
-@@||cdn.onesignal.com/sdks/OneSignalSDK.js
-@@||fonts.googleapis.com
-
-@@||*.*watchseries.to/show/get-tracking-data
-@@||*.*swatchseries.to/set-tracked-show
-@@||*.*swatchseries.to/episode/add-to-watched
-@@||*.*swatchseries.to/episode/remove-from-watched
-
-@@||ads.*watchseries.to/script/ad.js$script,domain=www1.swatchseries.to
-||static.*watchseries.to/templates/default/images/westworld-tournage-casting.gif$image
-
-||eontent.streamplay.to/apu.hh?n=&direct=1&zoneid=50$subdocument
-||st.chatango.com$subdocument
-||tvdata.ustvnow.com/highlighted-content/posters/horizontal/army-family.jpg$image
-watch.ustvnow.com##.pull-right.col-md-7.panel-default.panel
+@@||static.akacdn.ru^$image,domain=fmovies.to
 
 @@||thepiratebay.org/static/*$script,first-party
+@@||thepiratebay.org/ajax_details_filelist.php$xhr,first-party
+
+@@||swatchseries.to/public/js/jquery$script
+@@||swatchseries.to/public/js/slick.js$script
+@@||swatchseries.to/set-tracked-show$xhr
+@@||swatchseries.to/show/search-shows-json/*$xhr
+@@||swatchseries.to/show/get-tracking-data$xhr
+@@||swatchseries.to/show/add-to-watched$xhr
+@@||swatchseries.to/episode/add-to-watched$xhr
+@@||swatchseries.to/episode/remove-from-watched$xhr
+www1.swatchseries.to##.cc_logo
+www1.swatchseries.to##.shd_button
+www1.swatchseries.to##.sp-sidetower
+www1.swatchseries.to##.in.modal-backdrop
+www1.swatchseries.to##.allowNotificationModal
+||static.swatchseries.to/templates/default/images/stream.png$image
+
+igg-games.com##.modal-body
+igg-games.com##.modal-header > .modal-header
+igg-games.com##.modal-content > .modal-header
+igg-games.com###idModal
+
+ustvgo.tv###text-2 > .textwidget
+ustvgo.tv##.widget_text.mh-posts-1.mh-widget
+ustvgo.tv##.st-animated.st-inline-share-buttons.st-has-labels.st-justified.sharethis-inline-share-buttons
