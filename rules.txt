@@ -45,3 +45,6 @@ igg-games.com###idModal
 ustvgo.tv###text-2 > .textwidget
 ustvgo.tv##.widget_text.mh-posts-1.mh-widget
 ustvgo.tv##.st-animated.st-inline-share-buttons.st-has-labels.st-justified.sharethis-inline-share-buttons
+ustvgo.tv##.clearfix.entry-content > strong
+
+@@||cs.rin.ru
