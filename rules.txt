@@ -2,8 +2,6 @@
 
 @@||code.jquery.com^$script
 @@||*.speedtest.net/api/*$xhr,domain=speedtest.net
-@@||quack.me/$document
-@@||pandora:9901/$document
 
 survey4prizes.com
 com-msoft65.info
@@ -11,16 +9,22 @@ bleutrack.com
 k9anf8bc.webcam
 coin-hive.com
 wegivegifts.net
-.ru
 .online
 .loan
 b014381c95cb.com
 www.haldimandmotors.com
 
+.ru
+@@||cs.rin.ru
 @@||static.akacdn.ru^$image,domain=fmovies.to
 
 @@||thepiratebay.org/static/*$script,first-party
 @@||thepiratebay.org/ajax_details_filelist.php$xhr,first-party
+thepiratebay.org##[src="https://torrindex.net/images/epv/468.png"]
+thepiratebay.org##[src="https://torrindex.net/images/epv/728t.png"]
+thepiratebay.org##[src="https://torrindex.net/images/epv/160.png"]
+thepiratebay.org##[src="https://torrindex.net/images/epv/120.png"]
+thepiratebay.org##[src="https://torrindex.net/images/epv/728f.png"]
 
 @@||swatchseries.to/public/js/jquery$script
 @@||swatchseries.to/public/js/slick.js$script
@@ -42,9 +46,5 @@ igg-games.com##.modal-header > .modal-header
 igg-games.com##.modal-content > .modal-header
 igg-games.com###idModal
 
-ustvgo.tv###text-2 > .textwidget
-ustvgo.tv##.widget_text.mh-posts-1.mh-widget
-ustvgo.tv##.st-animated.st-inline-share-buttons.st-has-labels.st-justified.sharethis-inline-share-buttons
-ustvgo.tv##.clearfix.entry-content > strong
-
-@@||cs.rin.ru
+||rtpetworki.fun^
+||cintent.streanplay.cc/apw.hh$subdocument
