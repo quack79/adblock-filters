@@ -41,14 +41,14 @@ www1.swatchseries.to##.in.modal-backdrop
 www1.swatchseries.to##.allowNotificationModal
 ||static.swatchseries.to/templates/default/images/stream.png$image
 
-@@||watch-series.la/public/js/jquery$script
-@@||watch-series.la/public/js/slick.js$script
-@@||watch-series.la/set-tracked-show$xhr
-@@||watch-series.la/show/search-shows-json/*$xhr
-@@||watch-series.la/show/get-tracking-data$xhr
-@@||watch-series.la/show/add-to-watched$xhr
-@@||watch-series.la/episode/add-to-watched$xhr
-@@||watch-series.la/episode/remove-from-watched$xhr
+@@||www1.watch-series.la/public/js/jquery$script
+@@||www1.watch-series.la/public/js/slick.js$script
+@@||www1.watch-series.la/set-tracked-show$xhr
+@@||www1.watch-series.la/show/search-shows-json/*$xhr
+@@||www1.watch-series.la/show/get-tracking-data$xhr
+@@||www1.watch-series.la/show/add-to-watched$xhr
+@@||www1.watch-series.la/episode/add-to-watched$xhr
+@@||www1.watch-series.la/episode/remove-from-watched$xhr
 www1.watch-series.la##.cc_logo
 www1.watch-series.la##.shd_button
 www1.watch-series.la##.sp-sidetower
