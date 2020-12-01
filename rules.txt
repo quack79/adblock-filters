@@ -41,6 +41,21 @@ www1.swatchseries.to##.in.modal-backdrop
 www1.swatchseries.to##.allowNotificationModal
 ||static.swatchseries.to/templates/default/images/stream.png$image
 
+@@||watch-series.la/public/js/jquery$script
+@@||watch-series.la/public/js/slick.js$script
+@@||watch-series.la/set-tracked-show$xhr
+@@||watch-series.la/show/search-shows-json/*$xhr
+@@||watch-series.la/show/get-tracking-data$xhr
+@@||watch-series.la/show/add-to-watched$xhr
+@@||watch-series.la/episode/add-to-watched$xhr
+@@||watch-series.la/episode/remove-from-watched$xhr
+www1.watch-series.la##.cc_logo
+www1.watch-series.la##.shd_button
+www1.watch-series.la##.sp-sidetower
+www1.watch-series.la##.in.modal-backdrop
+www1.watch-series.la##.allowNotificationModal
+||static.watch-series.la/templates/default/images/stream.png$image
+
 igg-games.com##.modal-body
 igg-games.com##.modal-header > .modal-header
 igg-games.com##.modal-content > .modal-header
